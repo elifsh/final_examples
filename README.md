@@ -1,3 +1,3 @@
 # final_examples
-## This repository has java samples that I like during exam week.
-If you see an error, you can contact me at 📫 **elifkeless2003@gmail.com**
+## This repository has java examples which I like during the exam week.
+If you find a mistake , you can contact with me from this mail address📫 **elifkeless2003@gmail.com**
